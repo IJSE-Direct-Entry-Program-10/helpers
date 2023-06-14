@@ -1,0 +1,9 @@
+**/node_modules
+**/target
+**/out
+**/.vscode
+**/.idea
+**/dist
+**/.parcel-cache
+**/*.iml
+**/logs
