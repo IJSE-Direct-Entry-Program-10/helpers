@@ -1,5 +1,5 @@
-# Helpers - v1.0.0
-A collection of projects that were created during the architecture series' first releasement which is **Spring Framework + JDBC** ([v1.0.0](https://github.com/IJSE-Direct-Entry-Program-10/monolithic-pos/releases/tag/v1.0.0))
+# Helpers
+A collection of projects that were created during the architecture series [Monolithic POS](https://github.com/IJSE-Direct-Entry-Program-10/monolithic-pos/))
 
 ### Standout Projects
 - [Auth App](https://github.com/IJSE-Direct-Entry-Program-10/helpers-v1.0.0/tree/main/auth-app)
